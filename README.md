@@ -24,6 +24,12 @@
    <tr>
      <td>2. Введение в нейросетевые алгоритмы<br/>02_intro_to_nn</td>
      <td> Лекция 3<br/>2_intro_to_neural_networks.ipynb</td>
+     <td rowspan="2"><ul>
+  <li>Что такое нейронная сеть</li>
+  <li>Функция потерь</li>
+  <li>Градиентный спуск</li>
+  <li>Функция активации</li>
+</ul>  </td>
   </tr>
 </table>
 
