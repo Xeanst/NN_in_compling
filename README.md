@@ -85,5 +85,16 @@
     <td><a href="https://www.youtube.com/watch?v=R7JOBf7TpVU&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=9&t=10s">Лекция 9</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/06_language_modeling/6_language_modeling_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/06_language_modeling/6_language_modeling_no_gaps.ipynb">6_no_gaps</a></td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/tree/main/07_attention">7. Архитектура sequence-to-sequence и механизм внимания</a></td>
+    <td><ul>
+  <li>Обобщенный механизм внимания</li>
+  <li>Архитектура базовой модели seq2seq: энкодер и декодер</li>
+  <li>Применение механизма внимания для seq2seq</li>
+  <li>Задача машинного перевода</li>
+</ul>  </td>
+    <td><a href="https://www.youtube.com/watch?v=akOQ11WZJug&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=10&t=1691s">Лекция 10</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/07_attention/7_seq2seq_attention.ipynb">7</a></td>
+  </tr>
 </table>
 </html>
