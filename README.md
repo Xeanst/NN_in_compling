@@ -9,7 +9,7 @@
     <th>Colab-блокнот</th>
   </tr>
   <tr>
-    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/01_machine_learning">1. Классическое машинное обучение</a></td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/01_machine_learning">1. Классическое машинное обучение</a></td>
     <td rowspan="2"><ul>
   <li>Обучение с учителем и без учителя</li>
   <li>Библиотеки для анализа данных: numpy, pandas</li>
@@ -36,7 +36,7 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_with_gaps.ipynb">2_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_no_gaps.ipynb">2_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/03_torch_mlp">3. Работа с тензорами и реализация персептрона</a></td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/03_torch_mlp">3. Работа с тензорами и реализация персептрона</a></td>
     <td rowspan="2"><ul>
   <li>Использование библиотеки PyTorch</li>
   <li>Тензоры и операции над ними: создание и индексирование, изменение размера, конкатенация, поэлементные операции, операции сравнения</li>
@@ -51,7 +51,7 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/03_torch_mlp/3b_torch_mlp_with_gaps.ipynb">3b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/03_torch_mlp/3b_torch_mlp_no_gaps.ipynb">3b_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/04_word_embeddings">4. Методы векторного представления слов на основе нейросетей</a></td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/04_word_embeddings">4. Методы векторного представления слов на основе нейросетей</a></td>
     <td rowspan="2"><ul>
   <li>Векторные представления слов word embeddings</li>
   <li>Модель word2vec: её разновидности CBOW и skip-gram, подход negative sampling</li>
@@ -66,7 +66,7 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_with_gaps.ipynb">4b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_no_gaps.ipynb">4b_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/05_rnn">5. Архитектуры рекуррентных нейронных сетей</a></td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/05_rnn">5. Архитектуры рекуррентных нейронных сетей</a></td>
     <td rowspan="2"><ul>
   <li>Архитектура рекуррентной нейронной сети: алгоритм обратного распространения ошибки сквозь время, взрывающийся и затухающий градиент</li>
   <li>Виды RNN: один к одному, один ко многим, многие к одному, многие ко многим</li>
@@ -76,7 +76,7 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/05_rnn/5_rnn_architecture_with_gaps.ipynb">5_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/05_rnn/5_rnn_architecture_no_gaps.ipynb">5_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/06_language_modeling">6. Языковое моделирование с помощью рекуррентных нейронных сетей</a></td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/06_language_modeling">6. Языковое моделирование с помощью рекуррентных нейронных сетей</a></td>
     <td rowspan="2"><ul>
   <li>Задача языкового моделирования</li>
   <li>Использование векторных представлений букв (символов) и токенов (слов)</li>
