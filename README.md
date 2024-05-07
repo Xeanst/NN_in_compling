@@ -32,19 +32,8 @@
   <li>Градиентный спуск</li>
   <li>Функция активации</li>
 </ul>  </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td rowspan="2">Ячейка 1</td>
-    <td>Ячейка 2</td>
-    <td>Ячейка 3</td>
-  </tr>
-  <tr>
-    <td>Ячейка 4</td>
-    <td>Ячейка 5</td>
+    <td><a href="https://www.youtube.com/watch?v=kHKrmGqDemM&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=3&t=8s">Лекция 3</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_with_gaps.ipynb">2_intro_to_neural_networks_with_gaps.ipynb</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_no_gaps.ipynb">2_intro_to_neural_networks_no_gaps.ipynb</a></td>
   </tr>
 </table>
 </html>
