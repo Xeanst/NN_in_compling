@@ -25,7 +25,7 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_with_gaps.ipynb">1b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_no_gaps.ipynb">1b_no_gaps</a></td>
   </tr>
    <tr>
-     <td>2. Введение в нейросетевые алгоритмы<br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/02_intro_to_nn">02_intro_to_nn</a></td>
+     <td><a href="https://github.com/Xeanst/NN_in_compling/tree/main/02_intro_to_nn">2. Введение в нейросетевые алгоритмы</a></td>
      <td><ul>
   <li>Что такое нейронная сеть</li>
   <li>Функция потерь</li>
@@ -33,7 +33,7 @@
   <li>Функция активации</li>
 </ul>  </td>
     <td><a href="https://www.youtube.com/watch?v=kHKrmGqDemM&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=3&t=8s">Лекция 3</a></td>
-    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_with_gaps.ipynb">2_with_gaps.ipynb</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_no_gaps.ipynb">2_no_gaps.ipynb</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_with_gaps.ipynb">2_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_no_gaps.ipynb">2_no_gaps</a></td>
   </tr>
 </table>
 </html>
