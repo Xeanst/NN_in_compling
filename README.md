@@ -50,5 +50,20 @@
     <td><a href="https://www.youtube.com/watch?v=IXfex_08MVc&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=5&t=1006s">Лекция 5</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/03_torch_mlp/3b_torch_mlp_with_gaps.ipynb">3b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/03_torch_mlp/3b_torch_mlp_no_gaps.ipynb">3b_no_gaps</a></td>
   </tr>
+  <tr>
+    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/04_word_embeddings">4. Методы векторного представления слов на основе нейросетей</a></td>
+    <td rowspan="2"><ul>
+  <li>Векторные представления слов word embeddings</li>
+  <li>Модель word2vec: её разновидности CBOW и skip-gram, подход negative sampling</li>
+  <li>Модель fastText</li>
+  <li>Использование предобученных векторных представлений в задачах классификации и кластеризации</li>
+</ul>  </td>
+    <td><a href="https://www.youtube.com/watch?v=1qnaiuX3Hg8&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=7&t=162s">Лекция 6</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4a_word_embeddings_with_gaps.ipynb">4a_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4a_word_embeddings_no_gaps.ipynb">4a_no_gaps</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=E1Rb4XQro30&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=8">Лекция 7</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_with_gaps.ipynb">4b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_no_gaps.ipynb">4b_no_gaps</a></td>
+  </tr>
 </table>
 </html>
