@@ -19,7 +19,10 @@
 </ul>  </td>
   </tr>
   <tr>
-    <td> Лекция 2</td>
+    <td> Лекция 2<br/>1b_machine_learning.ipynb</td>
+  </tr>
+   <tr>
+     <td>2. Введение в нейросетевые алгоритмы</td>
   </tr>
 </table>
 
