@@ -8,7 +8,7 @@
     <th>Содержание</th>
   </tr>
   <tr>
-    <td rowspan="2"> 1. Классическое машинное обучение<br/><a href="[http://www.google.com](https://github.com/Xeanst/NN_in_compling/tree/main/01_machine_learning)">01_machine_learning</a></td>
+    <td rowspan="2"> 1. Классическое машинное обучение<br/><a href="http://www.google.com](https://github.com/Xeanst/NN_in_compling/tree/main/01_machine_learning">01_machine_learning</a></td>
     <td> Лекция 1<br/>1a_machine_learning.ipynb</td>
     <td rowspan="2"><ul>
   <li>Обучение с учителем и без учителя</li>
