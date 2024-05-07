@@ -65,5 +65,15 @@
     <td><a href="https://www.youtube.com/watch?v=E1Rb4XQro30&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=8">Лекция 7</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_with_gaps.ipynb">4b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_no_gaps.ipynb">4b_no_gaps</a></td>
   </tr>
+  <tr>
+    <td rowspan="2"> <br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/05_rnn">5. Архитектуры рекуррентных нейронных сетей</a></td>
+    <td rowspan="2"><ul>
+  <li>Архитектура рекуррентной нейронной сети: алгоритм обратного распространения ошибки сквозь время, взрывающийся и затухающий градиент</li>
+  <li>Виды RNN: один к одному, один ко многим, многие к одному, многие ко многим</li>
+  <li>Архитектура сети долгой краткосрочной памяти LSTM</li>
+</ul>  </td>
+    <td><a href="https://www.youtube.com/watch?v=IUxtDx40_Bo&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=8&t=1738s">Лекция 8</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/05_rnn/5_rnn_architecture_with_gaps.ipynb">5_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/05_rnn/5_rnn_architecture_no_gaps.ipynb">5_no_gaps</a></td>
+  </tr>
 </table>
 </html>
