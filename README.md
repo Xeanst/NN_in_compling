@@ -3,8 +3,8 @@
 <html>
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
+    <th>Тема</th>
+    <th>Содержание</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
