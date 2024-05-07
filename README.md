@@ -66,8 +66,8 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_with_gaps.ipynb">4b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/04_word_embeddings/4b_word_embeddings_no_gaps.ipynb">4b_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/05_rnn">5. Архитектуры рекуррентных нейронных сетей</a></td>
-    <td rowspan="2"><ul>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/tree/main/05_rnn">5. Архитектуры рекуррентных нейронных сетей</a></td>
+    <td><ul>
   <li>Архитектура рекуррентной нейронной сети: алгоритм обратного распространения ошибки сквозь время, взрывающийся и затухающий градиент</li>
   <li>Виды RNN: один к одному, один ко многим, многие к одному, многие ко многим</li>
   <li>Архитектура сети долгой краткосрочной памяти LSTM</li>
@@ -76,12 +76,14 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/05_rnn/5_rnn_architecture_with_gaps.ipynb">5_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/05_rnn/5_rnn_architecture_no_gaps.ipynb">5_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/06_language_modeling">6. Языковое моделирование с помощью рекуррентных нейронных сетей</a></td>
-    <td rowspan="2"><ul>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/tree/main/06_language_modeling">6. Языковое моделирование с помощью рекуррентных нейронных сетей</a></td>
+    <td><ul>
   <li>Задача языкового моделирования</li>
   <li>Использование векторных представлений букв (символов) и токенов (слов)</li>
   <li>Генерация текста</li>
 </ul>  </td>
+    <td><a href="https://www.youtube.com/watch?v=R7JOBf7TpVU&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=9&t=10s">Лекция 9</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/06_language_modeling/6_language_modeling_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/06_language_modeling/6_language_modeling_no_gaps.ipynb">6_no_gaps</a></td>
   </tr>
 </table>
 </html>
