@@ -23,4 +23,17 @@
     <td>Francisco Chang</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td rowspan="2">Ячейка 1</td>
+    <td>Ячейка 2</td>
+    <td>Ячейка 3</td>
+  </tr>
+  <tr>
+    <td>Ячейка 4</td>
+    <td>Ячейка 5</td>
+  </tr>
+</table>
 </html>
