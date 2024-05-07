@@ -8,7 +8,7 @@
     <th>Содержание</th>
   </tr>
   <tr>
-    <td rowspan="2"> 1. Классическое машинное обучение</td>
+    <td rowspan="2"> 1. Классическое машинное обучение<br/>01_machine_learning</td>
     <td> Лекция 1<br/>1a_machine_learning.ipynb</td>
     <td rowspan="2"><ul>
   <li>Обучение с учителем и без учителя</li>
@@ -22,7 +22,8 @@
     <td> Лекция 2<br/>1b_machine_learning.ipynb</td>
   </tr>
    <tr>
-     <td>2. Введение в нейросетевые алгоритмы</td>
+     <td>2. Введение в нейросетевые алгоритмы<br/>02_intro_to_nn</td>
+     <td> Лекция 3<br/>2_intro_to_neural_networks.ipynb</td>
   </tr>
 </table>
 
