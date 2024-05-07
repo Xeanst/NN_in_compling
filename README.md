@@ -22,7 +22,7 @@
     <td> Лекция 2<br/>1b_machine_learning.ipynb</td>
   </tr>
    <tr>
-     <td>2. Введение в нейросетевые алгоритмы<br/>02_intro_to_nn</td>
+     <td>2. Введение в нейросетевые алгоритмы<br/><a href="https://github.com/Xeanst/NN_in_compling/tree/main/02_intro_to_nn">02_intro_to_nn</a></td>
      <td> Лекция 3<br/>2_intro_to_neural_networks.ipynb</td>
      <td rowspan="2"><ul>
   <li>Что такое нейронная сеть</li>
