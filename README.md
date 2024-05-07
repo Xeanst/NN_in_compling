@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td rowspan="2"> 1. Классическое машинное обучение</td>
-    <td> Лекция 1</td>
+    <td> Лекция 1<br/>1a_machine_learning.ipynb</td>
     <td rowspan="2"><ul>
   <li>Обучение с учителем и без учителя</li>
   <li>Библиотеки для анализа данных: numpy, pandas</li>
