@@ -20,7 +20,6 @@
   </tr>
   <tr>
     <td> Лекция 2</td>
-    <td>Francisco Chang</td>
   </tr>
 </table>
 
