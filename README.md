@@ -10,7 +10,6 @@
   <tr>
     <td> 1. Классическое машинное обучение</td>
     <td> Лекция 1</td>
-    <td> Лекция 2</td>
     <td><ul>
   <li>Обучение с учителем и без учителя</li>
   <li>Библиотеки для анализа данных: numpy, pandas</li>
@@ -20,7 +19,7 @@
 </ul>  </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td> Лекция 2</td>
     <td>Francisco Chang</td>
   </tr>
 </table>
