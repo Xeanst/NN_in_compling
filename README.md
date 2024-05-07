@@ -33,7 +33,7 @@
   <li>Функция активации</li>
 </ul>  </td>
     <td><a href="https://www.youtube.com/watch?v=kHKrmGqDemM&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=3&t=8s">Лекция 3</a></td>
-    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_with_gaps.ipynb">2_intro_to_neural_networks_with_gaps.ipynb</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_no_gaps.ipynb">2_intro_to_neural_networks_no_gaps.ipynb</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_with_gaps.ipynb">2_with_gaps.ipynb</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/02_intro_to_nn/2_intro_to_neural_networks_no_gaps.ipynb">2_no_gaps.ipynb</a></td>
   </tr>
 </table>
 </html>
