@@ -82,8 +82,6 @@
   <li>Использование векторных представлений букв (символов) и токенов (слов)</li>
   <li>Генерация текста</li>
 </ul>  </td>
-    <td><a href="https://www.youtube.com/watch?v=R7JOBf7TpVU&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=9&t=10s">Лекция 9</a></td>
-    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/06_language_modeling/6_language_modeling_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/06_language_modeling/6_language_modeling_no_gaps.ipynb">6_no_gaps</a></td>
   </tr>
 </table>
 </html>
