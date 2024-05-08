@@ -116,11 +116,11 @@
   <li>Библиотека Transformers от Hugging Face</li>
   <li>Использование предобученных векторов в других задачах</li>
 </ul>  </td>
-    <td>Лекция 12</td>
+    <td><a href="https://www.youtube.com/watch?v=i-xpeA1xZS4&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=12&t=1869s">Лекция 12</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/09_bert/9a_bert_with_gaps.ipynb">9a_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/09_bert/9a_bert_no_gaps.ipynb">9a_no_gaps</a></td>
   </tr>
   <tr>
-    <td><a href="">Лекция 13</a></td>
+    <td>Лекция 13</td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/09_bert/9b_bert_with_gaps.ipynb">9b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/09_bert/9b_bert_no_gaps.ipynb">9b_no_gaps</a></td>
   </tr>
 </table>
