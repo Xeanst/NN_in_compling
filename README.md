@@ -123,5 +123,15 @@
     <td>Лекция 13</td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/09_bert/9b_bert_with_gaps.ipynb">9b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/09_bert/9b_bert_no_gaps.ipynb">9b_no_gaps</a></td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/tree/main/10_gpt">10. Генеративные предобученные трансформеры</a></td>
+    <td><ul>
+  <li>Четыре поколения GPT</li>
+  <li>Гиперпараметры генерации: температура, top-k, top-p</li>
+  <li>Принцип обучения с подкреплением с обратной связью от человека</li>
+</ul>  </td>
+    <td>Лекция 14</td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/10_gpt/10_gpt.ipynb">10</a></td>
+  </tr>
 </table>
 </html>
