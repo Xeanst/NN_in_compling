@@ -96,5 +96,16 @@
     <td><a href="https://www.youtube.com/watch?v=akOQ11WZJug&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=10&t=1691s">Лекция 10</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/07_attention/7_seq2seq_attention.ipynb">7</a></td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/tree/main/08_transformer">8. Архитектура Трансформер</a></td>
+    <td><ul>
+  <li>Архитектура энкодера и декодера без рекуррентных сетей</li>
+  <li>Внутреннее внимание и множественное внимание</li>
+  <li>Кодирование позиции, параллельная обработка элементов последовательности</li>
+  <li>Остаточное соединение, нормализация по слоям</li>
+</ul>  </td>
+    <td><a href="https://www.youtube.com/watch?v=EIDLPdPoIAM&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=11">Лекция 11</a></td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/08_transformer/8_transformer_with_gaps.ipynb">8_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/08_transformer/8_transformer_no_gaps.ipynb">8_no_gaps</a></td>
+  </tr>
 </table>
 </html>
