@@ -1,4 +1,4 @@
-Репозиторий с материалами для курса "Применение нейронных сетей в компьютерной лингвистике"
+Репозиторий с материалами для курса «Применение нейронных сетей в компьютерной лингвистике»
 <!DOCTYPE html>
 <html>
 <table>
@@ -130,7 +130,7 @@
   <li>Гиперпараметры генерации: температура, top-k, top-p</li>
   <li>Принцип обучения с подкреплением с обратной связью от человека</li>
 </ul>  </td>
-    <td>Лекция 14</td>
+    <td><a href="https://www.youtube.com/watch?v=bQV8S6yU23A&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=14">Лекция 14</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/10_gpt/10_gpt.ipynb">10</a></td>
   </tr>
 </table>
