@@ -21,7 +21,7 @@
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_with_gaps.ipynb">1a_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_no_gaps.ipynb">1a_no_gaps</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=biHHoZ6DXSE&list=PLcsjsqLLSfNDn75oei8ex458TxBK9q5EP&index=2&t=2320s">Лекция 2</a></td>
+    <td><a href="https://teach-in.ru/lecture/2023-11-15-Studenikina">Лекция 2</a></td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_with_gaps.ipynb">1b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_no_gaps.ipynb">1b_no_gaps</a></td>
   </tr>
    <tr>
